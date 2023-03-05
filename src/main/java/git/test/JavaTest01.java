@@ -12,7 +12,7 @@ public class JavaTest01 {
         System.out.println("pull gitee-test");
          System.out.println("pull gitee-test1");
         System.out.println("测试本地修改");
-         System.out.println("测试合并")
+         System.out.println("测试合并");
     }
 
 }
