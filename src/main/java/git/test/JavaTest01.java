@@ -8,10 +8,11 @@ public class JavaTest01 {
         System.out.println("master01");
         System.out.println("hot-fix2");
         System.out.println("push git-test");
-        System.out.println("pull git-test");
+    System.out.println("pull git-test");
         System.out.println("pull gitee-test");
          System.out.println("pull gitee-test1");
         System.out.println("测试本地修改");
+         System.out.println("测试合并")
     }
 
 }
